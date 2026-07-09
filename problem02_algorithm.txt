@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: Ask for base. Store it as base.
+Step 3: Ask for height. Store it as height.
+Step 4: Compute area = base * height
+Step 5: Display area
+Step 6: End

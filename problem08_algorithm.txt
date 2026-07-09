@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask for total purchase amount. Store it as number.
+Step 3: Check if the number is 1000 or above.
+Step 4: If yes, display "Eligible for Discount".
+Step 5: If no, display "Not Eligible for Discount".
+Step 6: End.

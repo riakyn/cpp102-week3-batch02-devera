@@ -1,0 +1,6 @@
+START 
+INPUT totalexp
+INPUT balance
+PROCESS difference = totalexp - balance
+DISPLAY difference
+END

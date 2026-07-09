@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask for total expenses. Store it as totalexp.
+Step 3: Ask for remaining balance. store it as balance.
+Step 4: Compute difference = totalexp - balance
+Step 5: Display difference.
+Step 6: End.

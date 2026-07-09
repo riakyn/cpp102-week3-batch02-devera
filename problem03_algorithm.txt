@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask for notebook fixed price. Store it as notebook
+Step 3: Ask for the quantity to be bought. store as quantity.
+Step 4: Compute product = notebook * quantity
+Step 5: Display product.
+Step 6: End.

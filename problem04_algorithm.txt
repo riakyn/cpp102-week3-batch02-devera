@@ -1,0 +1,7 @@
+Step 1: Start.
+Step 2: Ask for score 1. Store it as score1.
+Step 3: Ask for score 2. Store it as score2.
+Step 4: Ask for score 3. Store it as score3.
+Step 5: Compute average = (score1 + score2 + score3) / 3.
+Step 6: Display average.
+Step 7: End.
