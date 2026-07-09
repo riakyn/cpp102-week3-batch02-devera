@@ -1,0 +1,8 @@
+START
+INPUT number
+IF number MOD 2 = 0 THEN
+DISPLAY "Even"
+ELSE
+DISPLAY "Odd"
+END IF
+END
