@@ -1,0 +1,6 @@
+START
+INPUT notebook
+INPUT quantity
+PROCESS product = notebook * quantity
+DISPLAY product
+END

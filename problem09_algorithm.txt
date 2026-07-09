@@ -1,0 +1,7 @@
+Step 1: Start.
+Step 2: Ask for account balance. Store it as balance.
+Step 3: Check if balance >= 0.
+Step 4: If it is greater than 0, display "positive balance".
+Step 5: If it is less than 0, display "negative balance".
+Step 6: If it is exactly 0, display "Zero balance".
+Step 7: End.
